@@ -1,1 +1,8 @@
 flask
+flask-cors
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+gunicorn
+mysqlclient
+mysql-connector-python
